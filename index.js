@@ -1,11 +1,5 @@
-function newFunc() {
-    console.log("I'm very new")
+function bestTeam() {
+    console.log("We are the best")
 }
 
-newFunc()
-function megaCool() {
-  console.log("I might be the coolest ever")
-  return 2 + 2;
-}
-
-megaCool();
+bestTeam();
